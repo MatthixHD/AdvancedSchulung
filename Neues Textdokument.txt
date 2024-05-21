@@ -1,1 +1,0 @@
-git -c diff.mnemonicprefix=false -c core.quotepath=false --no-optional-locks merge --no-ff develop
