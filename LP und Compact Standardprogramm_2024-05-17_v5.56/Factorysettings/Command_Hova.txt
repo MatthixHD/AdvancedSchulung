@@ -1,0 +1,28 @@
+0	get Vges_sp	set Vges_sp	2	Solldurchfluss
+1	get mfc_e 0	set mfc_e 0	1	MFC 0 Eingangskonzentration
+2	get mfc_e 1	set mfc_e 1	1	MFC 1 Eingangskonzentration
+3	get mfc_e 2	set mfc_e 2	1	MFC 2 Eingangskonzentration
+4	get a_sp 1	set a_sp 1	1	MFC 1 Ausgangskonzentration
+5	get a_sp 2	set a_sp 2	1	MFC 2 Ausgangskonzentration
+6
+7
+8
+9
+10	get gas mfc 0	set gas mfc 0	0	Gas 0
+11	get gas mfc 1	set gas mfc 1	0	Gas 1
+12	get gas mfc 2	set gas mfc 2	0	Gas 2
+13
+14	get Vges_pv		2	Istdurchfluss
+15	get pump_sp		1	Pumpe Soll
+16	get cw_pv		1	Wasserkonz.
+17	get temp_pv 0		1	Ist Temp
+18	get a_pv 1		1	Ist Konz 1 
+19	get a_pv 2		1	ist Konz 2
+20	
+21	get run	set run	2	Pumpe EIN/AUS	
+22	get cmode 0	set cmode 0	1	Wasser/Reagent
+23	get dry	set dry	2	Trocken/feucht
+24	get reagent	set reagent	1	HCI/HF/NH3/Hg/ppm/organik
+25	get temp_lcl 0	set temp_lcl 0	1	min. Temp
+26	get temp_sp 0	set temp_sp 0	1	soll. Temp
+27	get cw_sp	set cw_sp 0	1	Wasserkonz.

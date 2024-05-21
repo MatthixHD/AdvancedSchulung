@@ -1,0 +1,208 @@
+----------------Gases------------------	0.00	0.00	
+1.3 butadiene (	0.00	80.00	ppm
+1.3 butadiene (80)	0.00	80.00	ppm
+1,3 butadiene (100) LP 191C	0.00	100.00	ppm
+Acetaldehyde 	0.00	3000.00	ppm
+Acetaldehyde (	0.00	1000.00	ppm
+Acetaldehyde (1000)	0.00	1000.00	ppm
+Acetic	0.00	3000.00	ppm
+Acetylene 	0.00	3000.00	ppm
+Acetylene (	0.00	1000.00	ppm
+Acetylene (1000)	0.00	1000.00	ppm
+Acrolein	0.00	3000.00	ppm
+Acrolein (1000)	0.00	1000.00	ppm
+Ammonia	0.00	3000.00	ppm
+Aromatic HC C7 (1000)	0.00	1000.00	ppm
+Aromatic HC C7 (500) LP 191C	0.00	500.00	ppm
+Benzene	0.00	3000.00	ppm
+Benzene (	0.00	1000.00	ppm
+Benzene (1000)	0.00	1000.00	ppm
+Butadien 	0.00	3000.00	ppm
+Butane (	0.00	200.00	ppm
+Butane (200)	0.00	200.00	ppm
+CH4 	0.00	3000.00	ppm
+CH4 (2	0.00	250.00	ppm
+CH4 (20000)	0.00	20000.00	ppm
+CH4 (250)	0.00	250.00	ppm
+CH4 (3	0.00	3000.00	ppm
+CH4 (3000)	0.00	3000.00	ppm
+CH4 autorange	0.00	1000.00	ppm
+CO (	0.00	500.00	ppm
+CO (500)	0.00	500.00	ppm
+CO autorange	0.00	1000.00	ppm
+CO% (1)	0.00	1.00	%
+CO% (10)	0.00	10.00	%
+CO2 low% (4)	0.00	4.00	%
+CO2% (2	0.00	25.00	%
+CO2% (20)	0.00	20.00	%
+CO2% (in	0.00	25.00	%
+CO2% autorange	0.00	20.00	%
+COS (100)	0.00	100.00	ppm
+Cyclohexane (	0.00	100.00	ppm
+Cyclohexane (100)	0.00	100.00	ppm
+Diesel 	0.00	3000.00	ppm
+Diesel (	0.00	4500.00	ppm
+Diesel C1 (4500)	0.00	4500.00	ppm
+Diesel Oil (	0.00	4500.00	ppm
+Dodecane	0.00	3000.00	ppm
+Ethane 	0.00	3000.00	ppm
+Ethane (	0.00	1000.00	ppm
+Ethane (1000)	0.00	1000.00	ppm
+Ethane (500)	0.00	500.00	ppm
+Ethanol	0.00	3000.00	ppm
+Ethanol (	0.00	1000.00	ppm
+Ethanol (1000)	0.00	1000.00	ppm
+Ethanol (10000)	0.00	10000.00	ppm
+Ethanol% (	0.00	1.00	%
+Ethyl Benzene	0.00	3000.00	ppm
+Ethylene 	0.00	3000.00	ppm
+Ethylene (	0.00	3000.00	ppm
+Ethylene (100,3000)	0.00	3000.00	ppm
+FIDeq NMHC ppmC	0.00	1000.00	ppm
+FIDeq THC ppmC	0.00	1000.00	ppm
+Formaldehyde 	0.00	3000.00	ppm
+Formaldehyde (	0.00	70.00	ppm
+Formaldehyde (70,500)	0.00	500.00	ppm
+Formic 	0.00	3000.00	ppm
+Formic Acid (	0.00	10.00	ppm
+Formic Acid (100)	0.00	100.00	ppm
+H2Oppm	0.00	20000.00	ppm
+H2O% 	0.00	20.00	%
+H2O% (2	0.00	20.00	%
+H2O% (25)	0.00	25.00	%
+H2O% (4	0.00	40.00	%
+H2S 	0.00	3000.00	ppm
+H2SO4 	0.00	3000.00	ppm
+H2SO4 (	0.00	50.00	ppm
+H2SO4 (50)	0.00	50.00	ppm
+HCD	0.00	10000.00	ppm
+HCN 	0.00	3000.00	ppm
+HCN (100)	0.00	100.00	ppm
+HNCO 	0.00	3000.00	ppm
+HNCO (	0.00	400.00	ppm
+HNCO (400)	0.00	400.00	ppm
+HNO2 (20)	0.00	20.00	ppm
+HNO3 (700)	0.00	700.00	ppm
+Isobutylene (	0.00	500.00	ppm
+Isobutylene (500)	0.00	500.00	ppm
+Isopentane (	0.00	500.00	ppm
+Isopentane (500)	0.00	500.00	ppm
+MeOH 	0.00	3000.00	ppm
+MeOH (	0.00	10.00	ppm
+MeOH (1000)	0.00	1000.00	ppm
+MethylPentan	0.00	3000.00	ppm
+MTBE (	0.00	1000.00	ppm
+m-Xylene	0.00	3000.00	ppm
+N2O 	0.00	2000.00	ppm
+N2O (	0.00	300.00	ppm
+N2O (100,200,300)	0.00	300.00	ppm
+N2O (1040)	0.00	1040.00	ppm
+N2O autorange	0.00	1000.00	ppm
+NH3 	0.00	3000.00	ppm
+NH3 (300)	0.00	300.00	ppm
+NH3 (3000)	0.00	3000.00	ppm
+NH3 autorange	0.00	1000.00	ppm
+NMHCD	0.00	10000.00	ppm
+NMNEHCD (3000)	0.00	3000.00	ppm
+NMOG ppmC	0.00	1000.00	ppm
+NO (	0.00	3000.00	ppm
+NO (350,3000)	0.00	3000.00	ppm
+NO2 (1	0.00	150.00	ppm
+NO2 (150)	0.00	150.00	ppm
+NO2 (2	0.00	2000.00	ppm
+NO2 (2000)	0.00	2000.00	ppm
+NO2 autorange	0.00	1000.00	ppm
+NOx	0.00	1000.00	ppm
+NOx autorange	0.00	1000.00	ppm
+NOxP (	0.00	20.00	ppm
+Oil as octane (200)	0.00	200.00	ppm
+Oil as Octane (200) LP 191C	0.00	200.00	ppm
+o-Xylene	0.00	3000.00	ppm
+Pentane (	0.00	500.00	ppm
+Pentane (500)	0.00	500.00	ppm
+Propanal	0.00	3000.00	ppm
+Propane 	0.00	3000.00	ppm
+Propane (	0.00	1000.00	ppm
+Propane (1000)	0.00	1000.00	ppm
+Propane (200)	0.00	200.00	ppm
+Propylene 	0.00	3000.00	ppm
+Propylene (	0.00	1000.00	ppm
+Propylene (200,1000)	0.00	1000.00	ppm
+P-XYLENE	0.00	3000.00	ppm
+SF6 (	0.00	10.00	ppm
+SO2 	0.00	3000.00	ppm
+SO2 (	0.00	300.00	ppm
+SO2 (300)	0.00	300.00	ppm
+SO3 	0.00	3000.00	ppm
+SO3 (	0.00	150.00	ppm
+THC	0.00	3000.00	ppm
+Toluene	0.00	3000.00	ppm
+Toluene (	0.00	1000.00	ppm
+Urea 	0.00	3000.00	ppm
+Urea by-p	0.00	1000.00	ppm
+CO 	0.00	5000.00	ppm
+CO%	0.00	25.00	%
+CO2%	0.00	25.00	%
+O2 	0.00	25.00	%
+NO 	0.00	3000.00	ppm
+NOx	0.00	300.00	ppm
+NO2 191	0.00	3000.00	ppm
+NO2 L	0.00	1000.00	ppm
+NO2 H	0.00	10000.00	ppm
+N-FIDeq THC ppmC (5000)	0.00	5000.00	ppm
+N-FIDeq NMHC ppmC (3000)	0.00	3000.00	ppm
+--------------Autorange----------------	0.00	0.00	
+NO2 autorange	0.00	2000.00	ppm
+CO2% autorange	0.00	20.00	%
+CH4 autorange	0.00	3000.00	ppm
+NH3 autorange	0.00	3000.00	ppm
+NOx autorange	0.00	5000.00	ppm
+N2O autorange	0.00	1040.00	ppm
+CO autorange	0.00	10000.00	ppm
+CO2 autorange (20)	0.00	20.00	%
+CO2 autorange 	0.00	200000.00	ppm
+-----------------Wet-------------------	0.00	0.00	
+NO2 wet	0.00	2000.00	ppm
+CO2% wet	0.00	20.00	%
+CH4 wet	0.00	3000.00	ppm
+NH3 wet	0.00	3000.00	ppm
+NOx wet	0.00	5000.00	ppm
+N2O wet	0.00	1040.00	ppm
+CO wet	0.00	10000.00	ppm
+------------General German-------------	0.00	0.00	
+Temp. Messzelle	0.00	205.00	°C
+Druck Messzelle	0.00	1.00	bar
+sBeam@2500	0.00	2.00	
+Konstant 0	0.00	100.00	Konst
+Konstant 50	0.00	100.00	Konst
+Konstant 100	0.00	100.00	Konst
+Temp. Schaltschrank	0.00	50.00	°C
+Temp. Filter	0.00	205.00	°C
+Temp. Pumpe	0.00	205.00	°C
+Temp. HL 	0.00	205.00	°C
+Gaskühler	0.00	20.00	°C
+Austrittstemp. FT-IR	0.00	100.00	°C
+------------General English-------------	0.00	0.00	
+Outlet Temp. FT-IR	0.00	100.00	°C
+Outlet Temp FT-IR	0.00	100.00	°C
+Temp. Gascell	0.00	205.00	°C
+Pressure Gascell	0.00	1.00	bar
+Constant 0	0.00	100.00	Const
+Constant 50	0.00	100.00	Const
+Constant 100	0.00	100.00	Const
+Temp. Cabinet	0.00	50.00	°C
+Temp. Pump	0.00	205.00	°C
+Gas Cooler	0.00	20.00	°C
+------------General Italian-------------	0.00	0.00	
+Temp. Cellule de gaz	0.00	205.00	°C
+Pression Cellule de gaz	0.00	1.00	bar
+sBeam@2500	0.00	2.00	
+Constante 0	0.00	100.00	Konst
+Constante 50	0.00	100.00	Konst
+Constante 100	0.00	100.00	Konst
+Temp. Armoire	0.00	50.00	°C
+Temp. Filtre	0.00	205.00	°C
+Temp. Pompe	0.00	205.00	°C
+Rafreddamento del gas	0.00	20.00	°C
+----------------------------------------	0.00	0.00	
+DUMMY	0.00	200.00	---

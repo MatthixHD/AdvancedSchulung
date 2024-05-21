@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<License>
+	<ProductName>Custom PDF Generator for LabVIEW - Deployment</ProductName>
+	<ProductVersion>3.0.0</ProductVersion>
+	<LicenseType>Deployment</LicenseType>
+	<User>Werner Riegler</User>
+	<Company>IAGnG</Company>
+	<Serial>2000932</Serial>
+	<HardwareName>None</HardwareName>
+	<HardwareID>deploymentid</HardwareID>
+	<Signature>f4eef6f0306e88536a9addaa1a1f429c</Signature>
+</License>

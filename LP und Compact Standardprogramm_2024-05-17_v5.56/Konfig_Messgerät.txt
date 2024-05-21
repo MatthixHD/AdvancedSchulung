@@ -1,0 +1,8 @@
+[EVID Codes]
+Startadresse = 11000    
+Anzahl = 11    
+
+[Gerätetyp]
+Hz = 5    
+Komm Leitsystem = 5    
+Smoothing = FALSE    

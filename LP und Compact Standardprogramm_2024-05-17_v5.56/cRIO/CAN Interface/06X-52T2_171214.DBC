@@ -1,0 +1,497 @@
+VERSION "HIPBYYYYYYYYYYYYYYYYYYYYYYYYYYYYNNNNNNNNNN/4/%%%/4/'%**4NNN///"
+
+
+NS_ : 
+	NS_DESC_
+	CM_
+	BA_DEF_
+	BA_
+	VAL_
+	CAT_DEF_
+	CAT_
+	FILTER
+	BA_DEF_DEF_
+	EV_DATA_
+	ENVVAR_DATA_
+	SGTYPE_
+	SGTYPE_VAL_
+	BA_DEF_SGTYPE_
+	BA_SGTYPE_
+	SIG_TYPE_REF_
+	VAL_TABLE_
+	SIG_GROUP_
+	SIG_VALTYPE_
+	SIGTYPE_VALTYPE_
+	BO_TX_BU_
+	BA_DEF_REL_
+	BA_REL_
+	BA_DEF_DEF_REL_
+	BU_SG_REL_
+	BU_EV_REL_
+	BU_BO_REL_
+	SG_MUL_VAL_
+
+BS_:
+
+BU_: THMM_15925 THMM_15924 THMM_15919 THMM_15918 THMM_15917 THMM_15916 THMM_15681 THMM_15680 THMM_15663 THMM_15662 CSM_GmbH
+
+
+BO_ 900 AMC: 2 Vector__XXX
+ SG_ NOx_AMC : 0|16@1+ (1,0) [0|0] "ppm" Vector__XXX
+
+BO_ 1575 THMM_15643_MSG1: 8 Vector__XXX
+ SG_ THuefteBeLi : 48|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ THuefteFaRe : 32|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TLuftEinAC : 16|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TUmlEinAC : 0|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+
+BO_ 1574 THMM_15643_MSG0: 8 Vector__XXX
+ SG_ TKopfBeif : 48|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TKopfFahrer : 32|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TDueseFussRe : 16|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TDueseFussLi : 0|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+
+BO_ 1573 THMM_15642_MSG1: 8 Vector__XXX
+ SG_ TDueseSeiteRe : 48|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TDueseSeiteLi : 32|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TLiegeURe : 16|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TLiegeULi : 0|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+
+BO_ 1572 THMM_15642_MSG0: 8 Vector__XXX
+ SG_ TRueckwInn : 48|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TFussBe : 32|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TFussFah : 16|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TFuehlerAC : 0|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+
+BO_ 1571 THMM_15925_MSG1: 8 THMM_15925
+ SG_ TWTEin : 48|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TWHZRueckl : 32|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TWZHVorl : 16|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TOBDEXT : 0|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+
+BO_ 1570 THMM_15925_MSG0: 8 THMM_15925
+ SG_ TSKINEX2 : 48|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TSKINEX1 : 32|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TSKINnDOC2 : 16|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TSKINnDOC1 : 0|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+
+BO_ 1569 THMM_15924_MSG1: 8 THMM_15924
+ SG_ TNOXDS2 : 48|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TNOXDS1 : 32|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TNOXUS : 16|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TEDZYL5 : 0|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+
+BO_ 1568 THMM_15924_MSG0: 8 THMM_15924
+ SG_ TEDZYL2 : 48|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TAFGrid : 32|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TAFsens : 16|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TABnK3 : 0|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+
+BO_ 1561 THMM_15919_MSG1: 8 THMM_15919
+ SG_ TMT : 48|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TABnK2 : 32|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TABnK1 : 16|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TABiK1_8 : 0|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+
+BO_ 1560 THMM_15919_MSG0: 8 THMM_15919
+ SG_ TABiK1_7_6 : 48|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TABiK1_7_5 : 32|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TABiK1_7_4 : 16|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TABiK1_7_3 : 0|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+
+BO_ 1559 THMM_15918_MSG1: 8 THMM_15918
+ SG_ TABiK1_7_2 : 48|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TABiK1_7_1 : 32|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TABiK1_7 : 16|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TABiK1_6 : 0|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+
+BO_ 1558 THMM_15918_MSG0: 8 THMM_15918
+ SG_ TABiK1_5 : 48|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TABiK1_4 : 32|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TABiK1_3 : 16|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TABiK1_2 : 0|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+
+BO_ 1557 THMM_15917_MSG1: 8 THMM_15917
+ SG_ TABiK1_1 : 48|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TABvK1 : 32|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ T_AdBDlaus : 16|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ T_AdBDlmitte : 0|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+
+BO_ 1556 THMM_15917_MSG0: 8 THMM_15917
+ SG_ T_AdBDlein : 48|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ T_AdBRlaus : 32|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ T_AdBRlmitte : 16|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ T_AdBRlein : 0|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+
+BO_ 1555 THMM_15916_MSG1: 8 THMM_15916
+ SG_ T_AdBSlaus : 48|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ T_AdBSlmitte : 32|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ T_AdBSlein : 16|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TSLDM : 0|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+
+BO_ 1554 THMM_15916_MSG0: 8 THMM_15916
+ SG_ TSKINHAED : 48|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TULDM : 32|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TAdBToEnt : 16|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TAdBTmEnt : 0|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+
+BO_ 1553 THMM_15681_MSG1: 8 THMM_15681
+ SG_ TAdBTuEnt : 48|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TTSD : 32|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TSKIN_HDTV : 16|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TABcK3 : 0|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+
+BO_ 1552 THMM_15681_MSG0: 8 THMM_15681
+ SG_ TABiK3 : 48|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TWTAus : 32|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TBBnOS : 16|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TBBvOS : 0|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+
+BO_ 1545 THMM_15680_MSG1: 8 THMM_15680
+ SG_ TWAnLLKU2 : 48|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TWAnLLKU1 : 32|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TWAnKUNT : 16|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TWAnWP1 : 0|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+
+BO_ 1544 THMM_15680_MSG0: 8 THMM_15680
+ SG_ TWAvGET : 48|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TWAnAGR1 : 32|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TWAvAGR1 : 16|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TWAnKG : 0|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+
+BO_ 1543 THMM_15663_MSG1: 8 THMM_15663
+ SG_ TWAnZK : 48|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TABvT1F2 : 32|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TABvT1F1 : 16|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TABnT2 : 0|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+
+BO_ 1542 THMM_15663_MSG0: 8 THMM_15663
+ SG_ TABnT1 : 48|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TABnAGR1 : 32|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TLLSR : 16|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TLLvMOT : 0|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+
+BO_ 1541 THMM_15662_MSG1: 8 THMM_15662
+ SG_ TLLvDR : 48|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TLLnV2 : 32|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TLLvV2 : 16|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TLLnV1 : 0|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+
+BO_ 1540 THMM_15662_MSG0: 8 THMM_15662
+ SG_ TSLvV1 : 48|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TSLvFI : 32|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TOLMOT : 16|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+ SG_ TUL : 0|16@1- (0.1,0) [-100|1372] "°C"  CSM_GmbH
+
+BO_ 700 IFM_VpDLDM: 4 Vector__XXX
+ SG_ VpDLDM : 0|32@1- (1,0) [-2.14748|214748000] "l/min" Vector__XXX
+
+BO_ 645 MC_nOS_nLUE: 8 Vector__XXX
+ SG_ nLUE : 32|32@1+ (1,0) [0|3000] "rpm" Vector__XXX
+ SG_ nOS : 0|32@1+ (1,0) [0|20000] "rpm" Vector__XXX
+
+BO_ 592 CSM_PMAX: 4 Vector__XXX
+ SG_ Ubat : 16|16@1- (0.00183111,0) [-60|60] "V"  CSM_GmbH
+ SG_ pZYL6Max : 0|16@1- (0.00508642,133.333) [-33.3333|300] "bar"  CSM_GmbH
+
+BO_ 515 GPS_Msg4: 8 Vector__XXX
+ SG_ MsgAnzahl m1 : 56|8@1+ (1,0) [0|12] "" Vector__XXX
+ SG_ VDOP m0 : 48|16@1+ (0.1,0) [0|99.9] "m" Vector__XXX
+ SG_ MsgNummer m1 : 48|8@1+ (1,0) [0|12] "" Vector__XXX
+ SG_ SNR m1 : 40|8@1+ (1,0) [0|99] "dBhz" Vector__XXX
+ SG_ HDOP m0 : 32|16@1+ (0.1,0) [0|99.9] "m" Vector__XXX
+ SG_ Erhebungswinkel m1 : 32|8@1- (1,0) [-9|90] "Grad" Vector__XXX
+ SG_ AktSignal m0 : 30|2@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ PDOP m0 : 16|14@1+ (0.1,0) [0|1638.3] "m" Vector__XXX
+ SG_ Azimut m1 : 16|16@1+ (1,0) [0|359] "Grad" Vector__XXX
+ SG_ AnzSichtbSat m0 : 8|8@1+ (1,0) [0|255] "" Vector__XXX
+ SG_ Sat_ID m1 : 8|8@1+ (1,0) [1|32] "" Vector__XXX
+ SG_ Typ M : 4|4@1+ (1,0) [0|1] "" Vector__XXX
+ SG_ AnzAktSat m0 : 0|4@1+ (1,0) [0|12] "" Vector__XXX
+ SG_ Sat_aktiv m1 : 0|4@1+ (1,0) [0|1] "" Vector__XXX
+
+BO_ 514 GPS_Msg3: 4 Vector__XXX
+ SG_ GPS_direction : 16|16@1+ (0.1,0) [0|359.9] "Grad" Vector__XXX
+ SG_ GPS_velocity : 0|16@1+ (0.1,0) [0|999.9] "km/h" Vector__XXX
+
+BO_ 513 GPS_Msg2x: 8 Vector__XXX
+ SG_ GPS_Longitude : 32|32@1- (2.77778E-006,0) [-90|90] "Grad" Vector__XXX
+ SG_ GPS_Latitude : 0|32@1- (2.77778E-006,0) [-180|180] "Grad" Vector__XXX
+
+BO_ 512 GPS_Msg1: 8 Vector__XXX
+ SG_ GPS_altitude : 48|16@1+ (0.1,0) [0|6553.5] "m" Vector__XXX
+ SG_ Sekunde : 40|8@1+ (1,0) [0|59] "Sekunden" Vector__XXX
+ SG_ Minute : 32|8@1+ (1,0) [0|59] "Minuten" Vector__XXX
+ SG_ Stunde : 24|8@1+ (1,0) [0|23] "Stunden" Vector__XXX
+ SG_ Jahr : 16|8@1+ (1,0) [0|99] "Jahr" Vector__XXX
+ SG_ Monat : 8|8@1+ (1,0) [1|12] "Monat" Vector__XXX
+ SG_ Tag : 0|8@1+ (1,0) [1|31] "Tag" Vector__XXX
+
+BO_ 409 DrucksensorCAN25: 4 Vector__XXX
+ SG_ pLLnV1 : 0|32@1- (0.1,0) [-2.14748|214748000] "mbar" Vector__XXX
+
+BO_ 408 DrucksensorCAN24: 4 Vector__XXX
+ SG_ pABnK3 : 0|32@1- (0.1,0) [-2.14748|214748000] "mbar" Vector__XXX
+
+BO_ 407 DrucksensorCAN23: 4 Vector__XXX
+ SG_ pABnK2 : 0|32@1- (0.1,0) [-2.14748|214748000] "mbar" Vector__XXX
+
+BO_ 406 DrucksensorCAN22: 4 Vector__XXX
+ SG_ pABvK2 : 0|32@1- (0.1,0) [-2.14748|214748000] "mbar" Vector__XXX
+
+BO_ 405 DrucksensorCAN21: 4 Vector__XXX
+ SG_ pABvK1 : 0|32@1- (0.1,0) [-2.14748|214748000] "mbar" Vector__XXX
+
+BO_ 404 DrucksensorCAN20: 4 Vector__XXX
+ SG_ pKG : 0|32@1- (0.1,0) [-2.14748|214748000] "mbar" Vector__XXX
+
+BO_ 403 DrucksensorCAN19: 4 Vector__XXX
+ SG_ pvTV : 0|32@1- (0.1,0) [-2.14748|214748000] "mbar" Vector__XXX
+
+BO_ 402 DrucksensorCAN18: 4 Vector__XXX
+ SG_ pDLWGT1 : 0|32@1- (0.1,0) [-2.14748|214748000] "mbar" Vector__XXX
+
+BO_ 401 DrucksensorCAN17: 4 Vector__XXX
+ SG_ pDLWGT2 : 0|32@1- (0.1,0) [-2.14748|214748000] "mbar" Vector__XXX
+
+BO_ 400 DrucksensorCAN16: 4 Vector__XXX
+ SG_ pWAAG1 : 0|32@1- (0.1,0) [-2.14748|214748000] "mbar" Vector__XXX
+
+BO_ 399 DrucksensorCAN15: 4 Vector__XXX
+ SG_ pWAnWP1 : 0|32@1- (0.1,0) [-2.14748|214748000] "mbar" Vector__XXX
+
+BO_ 398 DrucksensorCAN14: 4 Vector__XXX
+ SG_ pWAvKUNT : 0|32@1- (0.1,0) [-2.14748|214748000] "mbar" Vector__XXX
+
+BO_ 397 DrucksensorCAN13: 4 Vector__XXX
+ SG_ pWAvAGR1 : 0|32@1- (0.1,0) [-2.14748|214748000] "mbar" Vector__XXX
+
+BO_ 396 DrucksensorCAN12: 4 Vector__XXX
+ SG_ pWAnAGR1 : 0|32@1- (0.1,0) [-2.14748|214748000] "mbar" Vector__XXX
+
+BO_ 395 DrucksensorCAN11: 4 Vector__XXX
+ SG_ pABnT2 : 0|32@1- (0.1,0) [-2.14748|214748000] "mbar" Vector__XXX
+
+BO_ 394 DrucksensorCAN10: 4 Vector__XXX
+ SG_ pABnT1 : 0|32@1- (0.1,0) [-2.14748|214748000] "mbar" Vector__XXX
+
+BO_ 393 DrucksensorCAN9: 4 Vector__XXX
+ SG_ pLLvMOT : 0|32@1- (0.1,0) [-2.14748|214748000] "mbar" Vector__XXX
+
+BO_ 392 DrucksensorCAN8: 4 Vector__XXX
+ SG_ pLLvDR : 0|32@1- (0.1,0) [-2.14748|214748000] "mbar" Vector__XXX
+
+BO_ 391 DrucksensorCAN7: 4 Vector__XXX
+ SG_ pLLvV2 : 0|32@1- (0.1,0) [-2.14748|214748000] "mbar" Vector__XXX
+
+BO_ 389 MC_nV1_nV2: 8 Vector__XXX
+ SG_ nV2 : 32|32@1+ (0.001,0) [0|200000] "rpm" Vector__XXX
+ SG_ nV1 : 0|32@1+ (1,0) [0|200000] "rpm" Vector__XXX
+
+BO_ 388 DrucksensorCAN4: 4 Vector__XXX
+ SG_ pABvT1F2 : 0|32@1- (0.1,0) [-2.14748|214748000] "mbar" Vector__XXX
+
+BO_ 387 DrucksensorCAN3: 4 Vector__XXX
+ SG_ pABvT1F1 : 0|32@1- (0.1,0) [-2.14748|214748000] "mbar" Vector__XXX
+
+BO_ 386 DrucksensorCAN2: 4 Vector__XXX
+ SG_ pWAvWP1 : 0|32@1- (0.1,0) [-2.14748|214748000] "mbar" Vector__XXX
+
+BO_ 385 DrucksensorCAN1: 4 Vector__XXX
+ SG_ pSLvV1 : 0|32@1- (0.1,0) [-2.14748|214748000] "mbar" Vector__XXX
+
+
+
+CM_ "CSM = 3, 29, 500000, 66, [970914] DBV(0) CONFIG(6.7.0.487)";
+CM_ BU_ THMM_15925 "CSM = 3, MiniModul, 0, 8, 0x622, 0, 15925, 100, -THMD, 592, 0, 0, 0, 0, 16";
+CM_ BU_ THMM_15924 "CSM = 3, MiniModul, 0, 8, 0x620, 0, 15924, 100, -THMD, 592, 0, 0, 0, 0, 16";
+CM_ BU_ THMM_15919 "CSM = 3, MiniModul, 0, 8, 0x618, 0, 15919, 100, -THMD, 592, 0, 0, 0, 0, 16";
+CM_ BU_ THMM_15918 "CSM = 3, MiniModul, 0, 8, 0x616, 0, 15918, 100, -THMD, 592, 0, 0, 0, 0, 16";
+CM_ BU_ THMM_15917 "CSM = 3, MiniModul, 0, 8, 0x614, 0, 15917, 100, -THMD, 592, 0, 0, 0, 0, 16";
+CM_ BU_ THMM_15916 "CSM = 3, MiniModul, 0, 8, 0x612, 0, 15916, 100, -THMD, 592, 0, 0, 0, 0, 16";
+CM_ BU_ THMM_15681 "CSM = 3, MiniModul, 0, 8, 0x610, 0, 15681, 100, -THMD, 592, 0, 0, 0, 0, 16";
+CM_ BU_ THMM_15680 "CSM = 3, MiniModul, 0, 8, 0x608, 0, 15680, 100, -THMD, 592, 0, 0, 0, 0, 16";
+CM_ BU_ THMM_15663 "CSM = 3, MiniModul, 0, 8, 0x606, 0, 15663, 100, -THMD, 592, 0, 0, 0, 0, 16";
+CM_ BU_ THMM_15662 "CSM = 3, MiniModul, 0, 8, 0x604, 0, 15662, 100, -THMD, 592, 0, 0, 0, 0, 16";
+CM_ SG_ 1575 THuefteBeLi "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1575 THuefteFaRe "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1575 TLuftEinAC "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1575 TUmlEinAC "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1574 TKopfBeif "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1574 TKopfFahrer "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1574 TDueseFussRe "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1574 TDueseFussLi "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1573 TDueseSeiteRe "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1573 TDueseSeiteLi "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1573 TLiegeURe "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1573 TLiegeULi "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1572 TRueckwInn "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1572 TFussBe "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1572 TFussFah "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1572 TFuehlerAC "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1571 TWTEin "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1571 TWHZRueckl "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1571 TWZHVorl "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1571 TOBDEXT "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1570 TSKINEX2 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1570 TSKINEX1 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1570 TSKINnDOC2 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1570 TSKINnDOC1 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1569 TNOXDS2 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1569 TNOXDS1 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1569 TNOXUS "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1569 TEDZYL5 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1568 TEDZYL2 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1568 TAFGrid "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1568 TAFsens "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1568 TABnK3 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1561 TMT "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1561 TABnK2 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1561 TABnK1 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1561 TABiK1_8 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1560 TABiK1_7_6 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1560 TABiK1_7_5 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1560 TABiK1_7_4 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1560 TABiK1_7_3 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1559 TABiK1_7_2 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1559 TABiK1_7_1 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1559 TABiK1_7 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1559 TABiK1_6 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1558 TABiK1_5 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1558 TABiK1_4 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1558 TABiK1_3 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1558 TABiK1_2 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1557 TABiK1_1 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1557 TABvK1 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1557 T_AdBDlaus "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1557 T_AdBDlmitte "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1556 T_AdBDlein "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1556 T_AdBRlaus "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1556 T_AdBRlmitte "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1556 T_AdBRlein "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1555 T_AdBSlaus "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1555 T_AdBSlmitte "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1555 T_AdBSlein "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1555 TSLDM "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1554 TSKINHAED "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1554 TULDM "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1554 TAdBToEnt "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1554 TAdBTmEnt "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1553 TAdBTuEnt "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1553 TTSD "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1553 TSKIN_HDTV "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1553 TABcK3 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1552 TABiK3 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1552 TWTAus "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1552 TBBnOS "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1552 TBBvOS "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1545 TWAnLLKU2 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1545 TWAnLLKU1 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1545 TWAnKUNT "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1545 TWAnWP1 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1544 TWAvGET "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1544 TWAnAGR1 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1544 TWAvAGR1 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1544 TWAnKG "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1543 TWAnZK "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1543 TABvT1F2 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1543 TABvT1F1 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1543 TABnT2 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1542 TABnT1 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1542 TABnAGR1 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1542 TLLSR "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1542 TLLvMOT "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1541 TLLvDR "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1541 TLLnV2 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1541 TLLvV2 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1541 TLLnV1 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1540 TSLvV1 "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1540 TSLvFI "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1540 TOLMOT "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 1540 TUL "CSM = 0, 0, 0, 0 ST(3)";
+CM_ SG_ 592 Ubat "CSM = 0, 0, 0, 0, 60, 1, 0, 0, 0, 0 ST(3)";
+CM_ SG_ 592 pZYL6Max "CSM = -8000, 0, 10000, 300, 10, 1, 0, 32888, 1, 0 ST(3)";
+BA_DEF_  "BusType" STRING ;
+BA_DEF_DEF_  "BusType" "";
+BA_ "BusType" "CAN";
+VAL_ 1571 TWTEin -32768 "NO_SENSOR" ;
+VAL_ 1571 TWHZRueckl -32768 "NO_SENSOR" ;
+VAL_ 1571 TWZHVorl -32768 "NO_SENSOR" ;
+VAL_ 1571 TOBDEXT -32768 "NO_SENSOR" ;
+VAL_ 1570 TSKINEX2 -32768 "NO_SENSOR" ;
+VAL_ 1570 TSKINEX1 -32768 "NO_SENSOR" ;
+VAL_ 1570 TSKINnDOC2 -32768 "NO_SENSOR" ;
+VAL_ 1570 TSKINnDOC1 -32768 "NO_SENSOR" ;
+VAL_ 1569 TNOXDS2 -32768 "NO_SENSOR" ;
+VAL_ 1569 TNOXDS1 -32768 "NO_SENSOR" ;
+VAL_ 1569 TNOXUS -32768 "NO_SENSOR" ;
+VAL_ 1569 TEDZYL5 -32768 "NO_SENSOR" ;
+VAL_ 1568 TEDZYL2 -32768 "NO_SENSOR" ;
+VAL_ 1568 TAFGrid -32768 "NO_SENSOR" ;
+VAL_ 1568 TAFsens -32768 "NO_SENSOR" ;
+VAL_ 1568 TABnK3 -32768 "NO_SENSOR" ;
+VAL_ 1561 TMT -32768 "NO_SENSOR" ;
+VAL_ 1561 TABnK2 -32768 "NO_SENSOR" ;
+VAL_ 1561 TABnK1 -32768 "NO_SENSOR" ;
+VAL_ 1561 TABiK1_8 -32768 "NO_SENSOR" ;
+VAL_ 1560 TABiK1_7_6 -32768 "NO_SENSOR" ;
+VAL_ 1560 TABiK1_7_5 -32768 "NO_SENSOR" ;
+VAL_ 1560 TABiK1_7_4 -32768 "NO_SENSOR" ;
+VAL_ 1560 TABiK1_7_3 -32768 "NO_SENSOR" ;
+VAL_ 1559 TABiK1_7_2 -32768 "NO_SENSOR" ;
+VAL_ 1559 TABiK1_7_1 -32768 "NO_SENSOR" ;
+VAL_ 1559 TABiK1_7 -32768 "NO_SENSOR" ;
+VAL_ 1559 TABiK1_6 -32768 "NO_SENSOR" ;
+VAL_ 1558 TABiK1_5 -32768 "NO_SENSOR" ;
+VAL_ 1558 TABiK1_4 -32768 "NO_SENSOR" ;
+VAL_ 1558 TABiK1_3 -32768 "NO_SENSOR" ;
+VAL_ 1558 TABiK1_2 -32768 "NO_SENSOR" ;
+VAL_ 1557 TABiK1_1 -32768 "NO_SENSOR" ;
+VAL_ 1557 TABvK1 -32768 "NO_SENSOR" ;
+VAL_ 1557 T_AdBDlaus -32768 "NO_SENSOR" ;
+VAL_ 1557 T_AdBDlmitte -32768 "NO_SENSOR" ;
+VAL_ 1556 T_AdBDlein -32768 "NO_SENSOR" ;
+VAL_ 1556 T_AdBRlaus -32768 "NO_SENSOR" ;
+VAL_ 1556 T_AdBRlmitte -32768 "NO_SENSOR" ;
+VAL_ 1556 T_AdBRlein -32768 "NO_SENSOR" ;
+VAL_ 1555 T_AdBSlaus -32768 "NO_SENSOR" ;
+VAL_ 1555 T_AdBSlmitte -32768 "NO_SENSOR" ;
+VAL_ 1555 T_AdBSlein -32768 "NO_SENSOR" ;
+VAL_ 1555 TSLDM -32768 "NO_SENSOR" ;
+VAL_ 1554 TSKINHAED -32768 "NO_SENSOR" ;
+VAL_ 1554 TULDM -32768 "NO_SENSOR" ;
+VAL_ 1554 TAdBToEnt -32768 "NO_SENSOR" ;
+VAL_ 1554 TAdBTmEnt -32768 "NO_SENSOR" ;
+VAL_ 1553 TAdBTuEnt -32768 "NO_SENSOR" ;
+VAL_ 1553 TTSD -32768 "NO_SENSOR" ;
+VAL_ 1553 TSKIN_HDTV -32768 "NO_SENSOR" ;
+VAL_ 1553 TABcK3 -32768 "NO_SENSOR" ;
+VAL_ 1552 TABiK3 -32768 "NO_SENSOR" ;
+VAL_ 1552 TWTAus -32768 "NO_SENSOR" ;
+VAL_ 1552 TBBnOS -32768 "NO_SENSOR" ;
+VAL_ 1552 TBBvOS -32768 "NO_SENSOR" ;
+VAL_ 1545 TWAnLLKU2 -32768 "NO_SENSOR" ;
+VAL_ 1545 TWAnLLKU1 -32768 "NO_SENSOR" ;
+VAL_ 1545 TWAnKUNT -32768 "NO_SENSOR" ;
+VAL_ 1545 TWAnWP1 -32768 "NO_SENSOR" ;
+VAL_ 1544 TWAvGET -32768 "NO_SENSOR" ;
+VAL_ 1544 TWAnAGR1 -32768 "NO_SENSOR" ;
+VAL_ 1544 TWAvAGR1 -32768 "NO_SENSOR" ;
+VAL_ 1544 TWAnKG -32768 "NO_SENSOR" ;
+VAL_ 1543 TWAnZK -32768 "NO_SENSOR" ;
+VAL_ 1543 TABvT1F2 -32768 "NO_SENSOR" ;
+VAL_ 1543 TABvT1F1 -32768 "NO_SENSOR" ;
+VAL_ 1543 TABnT2 -32768 "NO_SENSOR" ;
+VAL_ 1542 TABnT1 -32768 "NO_SENSOR" ;
+VAL_ 1542 TABnAGR1 -32768 "NO_SENSOR" ;
+VAL_ 1542 TLLSR -32768 "NO_SENSOR" ;
+VAL_ 1542 TLLvMOT -32768 "NO_SENSOR" ;
+VAL_ 1541 TLLvDR -32768 "NO_SENSOR" ;
+VAL_ 1541 TLLnV2 -32768 "NO_SENSOR" ;
+VAL_ 1541 TLLvV2 -32768 "NO_SENSOR" ;
+VAL_ 1541 TLLnV1 -32768 "NO_SENSOR" ;
+VAL_ 1540 TSLvV1 -32768 "NO_SENSOR" ;
+VAL_ 1540 TSLvFI -32768 "NO_SENSOR" ;
+VAL_ 1540 TOLMOT -32768 "NO_SENSOR" ;
+VAL_ 1540 TUL -32768 "NO_SENSOR" ;
+

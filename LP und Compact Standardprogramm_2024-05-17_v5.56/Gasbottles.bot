@@ -1,0 +1,25 @@
+Name	Batch number	Expiration date	Carrier gas	Gas 1	Conc. 1	Unit	Acc. 1	Gas 2	Conc. 2	Unit	Acc. 2	Gas 3	Conc. 3	Unit	Acc. 3	Gas 4	Conc. 4	Unit	Acc. 4	Gas 5	Conc. 5	Unit	Acc. 5
+-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+IAG O2	---	2021-11-25	N2	O2	20.0000	%	1.0																
+IAG C2H2	---	2021-09-20	N2	C2H2	1000.0000	ppm	1.0																
+IAG C2H4	D131929	2021-09-20	N2	C2H4	1000.0000	ppm	1.0																
+IAG NH3 200	D151380	2023-06-13	N2	NH3	200.1000	ppm	3.0																
+IAG NH3 2000	D324760	2023-02-08	N2	NH3	2001.0000	ppm	3.0																
+IAG NH3 3000	D307392	2022-03-11	N2	NH3	3000.0000	ppm	3.0																
+IAG CO 5%	---	2020-08-14	N2	CO	4.9980	%	1.0																
+IAG Propane 2%	---	2018-11-29	N2	Propane	1.9480	%	2.0																
+IAG NO 1000	D935412	2021-06-27	N2	NO	999.0000	ppm	1.0																
+IAG SO2	---	2021-09-14	N2	SO2	1001.0000	ppm	1.0																
+IAG C3H6	D324816	2019-02-06	N2	C3H6	1001.0000	ppm	1.0																
+IAG CO2	609	2023-01-12	N2	CO2	14.9300	%	1.0																
+IAG CO	D132094	2022-10-18	N2	CO	993.3000	ppm	1.0																
+IAG N2O	D230361	2023-06-13	N2	N2O	999.0000	ppm	2.0																
+IAG N2O 100	33409	2022-01-14	N2	N2O	99.7000	ppm	1.0																
+IAG NO2 1000	D442877	2022-09-09	N2	NO2	1005.0000	ppm	2.0																
+IAG NO2 100	D328077	2023-04-26	N2	NO2	100.4000	ppm	3.0																
+IAG CH4	D151315	2020-11-25	N2	CH4	5007.0000	ppm	1.0																
+IAG Propane	111487	2023-03-12	N2	Propane	3117.0000	ppm	1.0																
+Hansi	D66666666	2023-11-01	N2	SO2	750.0000	ppm	3.0																
+IAG MG	D131980	2023-08-22	N2	Propane	170.1000	ppm	1.0	NO	505.0000	ppm	1.0	CO	0.2001	%	1.0	CO2	8.0100	%	1.0				
+IAG NO 3000	D717057	2022-09-06	N2	NO	3000.0000	ppm	1.0																
+CH42	D15442589	1904-01-01	N2	C2H4	4200.0000	ppm	2.0																

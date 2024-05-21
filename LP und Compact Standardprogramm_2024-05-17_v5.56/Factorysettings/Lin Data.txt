@@ -1,0 +1,34 @@
+[0]
+Kalibriergas = 0
+Aufschaltpunkt = 0
+Analysator = 0
+Prüfgasname = ""
+Verdünnungsgas = 0
+Anzahl Stufen = 0
+Zeitdauer Stufen = 0
+Max Fehler = 0.000000
+Max Fehler Endwert = 0.000000
+Bearbeiter = ""
+Kalibriergerät = ""
+Stufen Tabelle = ""
+Max Fehler Deviation = 0.000000
+Mittelwerte = 0
+
+[Allgemein]
+Index = "0.000000	0.000000	0.000000\0D\0A"
+
+[4]
+Kalibriergas = 4
+Aufschaltpunkt = 0
+Analysator = 2
+Prüfgasname = ""
+Verdünnungsgas = 0
+Anzahl Stufen = 0
+Zeitdauer Stufen = 0
+Max Fehler = 0.000000
+Max Fehler Endwert = 0.000000
+Bearbeiter = ""
+Kalibriergerät = ""
+Stufen Tabelle = ""
+Max Fehler Deviation = 0.000000
+Mittelwerte = 0
