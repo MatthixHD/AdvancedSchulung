@@ -1,0 +1,169 @@
+VERSION ""
+
+NS_ :
+  NS_DESC_
+  CM_
+  BA_DEF_
+  BA_
+  VAL_
+  CAT_DEF_
+  CAT_
+  FILTER
+  BA_DEF_DEF_
+  EV_DATA_
+  ENVVAR_DATA_
+  SGTYPE_
+  SGTYPE_VAL_
+  BA_DEF_SGTYPE_
+  BA_SGTYPE_
+  SIG_TYPE_REF_
+  VAL_TABLE_
+  SIG_GROUP_
+  SIG_VALTYPE_
+  SIGTYPE_VALTYPE_
+  BO_TX_BU_
+  BA_DEF_REL_
+  BA_REL_
+  BA_DEF_DEF_REL_
+  BU_SG_REL_
+  BU_EV_REL_
+  BU_BO_REL_
+  SG_MUL_VAL_
+
+BS_ :
+
+BU_ :
+
+BO_ 900 Messwert1: 8 Vector__XXX
+  SG_ HNCO : 32|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+  SG_ NO : 0|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+
+BO_ 909 Messwert10: 8 Vector__XXX
+  SG_ CO : 32|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+  SG_ NO2 : 0|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+
+BO_ 910 Messwert11: 8 Vector__XXX
+  SG_ CH4 : 0|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+  SG_ NH3 : 32|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+
+BO_ 0 Messwert12: 8 Vector__XXX
+  SG_ HCD : 32|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+  SG_ NOx : 0|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+
+BO_ 912 Messwert13: 8 Vector__XXX
+  SG_ CO2 : 32|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+  SG_ NMHCD : 0|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+
+BO_ 913 Messwert14: 8 Vector__XXX
+  SG_ DurchlfussFTIR : 32|32@1- (0.10000000000000000555,0) [0|1000] "" Vector__XXX
+  SG_ N2O : 0|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+
+BO_ 901 Messwert2: 8 Vector__XXX
+  SG_ Formaldehyde : 32|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+  SG_ H2O : 0|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+
+BO_ 902 Messwert3: 8 Vector__XXX
+  SG_ AromaticHC : 32|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+  SG_ Propylene : 0|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+
+BO_ 903 Messwert4: 8 Vector__XXX
+  SG_ Ethane : 32|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+  SG_ Ethylene : 0|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+
+BO_ 904 Messwert5: 8 Vector__XXX
+  SG_ Acetylene : 0|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+  SG_ HNO2 : 32|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+
+BO_ 905 Messwert6: 8 Vector__XXX
+  SG_ FormicAcid : 32|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+  SG_ MeOH : 0|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+
+BO_ 906 Messwert7: 8 Vector__XXX
+  SG_ Acetaldehyde : 32|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+  SG_ SO2 : 0|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+
+BO_ 907 Messwert8: 8 Vector__XXX
+  SG_ Butadiene : 32|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+  SG_ COS : 0|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+
+BO_ 908 Messwert9: 8 Vector__XXX
+  SG_ OilasOctane : 0|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+  SG_ Propane : 32|32@1- (0.010000000000000000208,0) [0|1000] "" Vector__XXX
+
+BO_ 1000 Status1: 8 Vector__XXX
+  SG_ DurchflussFTIR : 32|32@1- (0.10000000000000000555,0) [0|1000] "" Vector__XXX
+  SG_ sBeam : 0|32@1- (0.10000000000000000555,0) [0|1000] "" Vector__XXX
+
+BO_ 1001 Status2: 8 Vector__XXX
+  SG_ DruckFTIR : 0|32@1- (0.10000000000000000555,0) [0|1000] "" Vector__XXX
+  SG_ Linearizer : 32|32@1- (0.10000000000000000555,0) [0|1000] "" Vector__XXX
+
+BO_ 100 ZustandInfo: 8 Vector__XXX
+  SG_ Fehler : 16|16@1+ (1,0) [0|1000] "" Vector__XXX
+  SG_ Zustand : 0|16@1+ (1,0) [0|1000] "" Vector__XXX
+
+BA_DEF_ "DBName" STRING;
+BA_DEF_ "BusType" STRING;
+BA_DEF_ BO_ "VFrameFormat" ENUM "StandardCAN","ExtendedCAN","reserved","J1939PG","reserved","reserved","reserved","reserved","reserved","reserved","reserved","reserved","reserved","reserved","StandardCAN_FD","ExtendedCAN_FD";
+BA_DEF_ BO_ "GenMsgSendType" ENUM "Cyclic","Event","CyclicIfActive","SpontanWithDelay","CyclicAndSpontan","CyclicAndSpontanWithDelay";
+BA_DEF_ BO_ "GenMsgCycleTime" INT 0 0;
+BA_DEF_ BO_ "GenMsgDelayTime" INT 0 0;
+BA_DEF_ SG_ "GenSigStartValue" FLOAT 0 0;
+BA_DEF_DEF_ "DBName" "Daimler_IBN";
+BA_DEF_DEF_ "BusType" "CAN";
+BA_DEF_DEF_ "VFrameFormat" "StandardCAN";
+BA_DEF_DEF_ "GenMsgSendType" "Cyclic";
+BA_DEF_DEF_ "GenMsgCycleTime" 0;
+BA_DEF_DEF_ "GenMsgDelayTime" 0;
+BA_DEF_DEF_ "GenSigStartValue" 0;
+BA_ "VFrameFormat" BO_ 900 0;
+BA_ "GenMsgSendType" BO_ 900 0;
+BA_ "GenMsgCycleTime" BO_ 900 100;
+BA_ "VFrameFormat" BO_ 909 0;
+BA_ "GenMsgSendType" BO_ 909 0;
+BA_ "GenMsgCycleTime" BO_ 909 100;
+BA_ "VFrameFormat" BO_ 910 0;
+BA_ "GenMsgSendType" BO_ 910 0;
+BA_ "GenMsgCycleTime" BO_ 910 100;
+BA_ "VFrameFormat" BO_ 0 0;
+BA_ "GenMsgSendType" BO_ 0 0;
+BA_ "GenMsgCycleTime" BO_ 0 100;
+BA_ "VFrameFormat" BO_ 912 0;
+BA_ "GenMsgSendType" BO_ 912 0;
+BA_ "GenMsgCycleTime" BO_ 912 100;
+BA_ "VFrameFormat" BO_ 913 0;
+BA_ "GenMsgSendType" BO_ 913 0;
+BA_ "GenMsgCycleTime" BO_ 913 100;
+BA_ "VFrameFormat" BO_ 901 0;
+BA_ "GenMsgSendType" BO_ 901 0;
+BA_ "GenMsgCycleTime" BO_ 901 100;
+BA_ "VFrameFormat" BO_ 902 0;
+BA_ "GenMsgSendType" BO_ 902 0;
+BA_ "GenMsgCycleTime" BO_ 902 100;
+BA_ "VFrameFormat" BO_ 903 0;
+BA_ "GenMsgSendType" BO_ 903 0;
+BA_ "GenMsgCycleTime" BO_ 903 100;
+BA_ "VFrameFormat" BO_ 904 0;
+BA_ "GenMsgSendType" BO_ 904 0;
+BA_ "GenMsgCycleTime" BO_ 904 100;
+BA_ "VFrameFormat" BO_ 905 0;
+BA_ "GenMsgSendType" BO_ 905 0;
+BA_ "GenMsgCycleTime" BO_ 905 100;
+BA_ "VFrameFormat" BO_ 906 0;
+BA_ "GenMsgSendType" BO_ 906 0;
+BA_ "GenMsgCycleTime" BO_ 906 100;
+BA_ "VFrameFormat" BO_ 907 0;
+BA_ "GenMsgSendType" BO_ 907 0;
+BA_ "GenMsgCycleTime" BO_ 907 100;
+BA_ "VFrameFormat" BO_ 908 0;
+BA_ "GenMsgSendType" BO_ 908 0;
+BA_ "GenMsgCycleTime" BO_ 908 100;
+BA_ "VFrameFormat" BO_ 1000 0;
+BA_ "GenMsgSendType" BO_ 1000 0;
+BA_ "GenMsgCycleTime" BO_ 1000 100;
+BA_ "VFrameFormat" BO_ 1001 0;
+BA_ "GenMsgSendType" BO_ 1001 0;
+BA_ "GenMsgCycleTime" BO_ 1001 100;
+BA_ "VFrameFormat" BO_ 100 0;
+BA_ "GenMsgSendType" BO_ 100 0;
+BA_ "GenMsgCycleTime" BO_ 100 100;

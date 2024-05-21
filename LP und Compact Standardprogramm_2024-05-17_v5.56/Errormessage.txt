@@ -1,0 +1,243 @@
+1	0.0	0	1	Heizung Filter: Fühlerbruch Temperatursensor
+2	0.0	0	0	Heizung Filter: Warngrenze wurde unterschritten
+3	0.0	0	0	Heizung Filter: Warngrenze wurde überschritten
+4	0.0	0	1	Heizung Filter: Abschaltgrenze wurde unterschritten
+5	0.0	0	1	Heizung Filter: Abschaltgrenze wurde überschritten
+6	0.0	0	1	Heizung Pumpe: Fühlerbruch Temperatursensor
+7	0.0	0	0	Heizung Pumpe: Warngrenze wurde unterschritten
+8	0.0	0	0	Heizung Pumpe: Warngrenze wurde überschritten
+9	0.0	0	1	Heizung Pumpe: Abschaltgrenze wurde unterschritten
+10	0.0	0	1	Heizung Pumpe: Abschaltgrenze wurde überschritten
+11	0.0	0	1	Heizleitung zu Filter: Fühlerbruch Temperatursensor
+12	0.0	0	0	Heizleitung zu Filter: Warngrenze wurde unterschritten
+13	0.0	0	0	Heizleitung zu Filter: Warngrenze wurde überschritten
+14	0.0	0	1	Heizleitung zu Filter: Abschaltgrenze wurde unterschritten
+15	0.0	0	1	Heizleitung zu Filter: Abschaltgrenze wurde überschritten
+16	0.0	0	1	Heizleitung zu FT-IR: Fühlerbruch Temperatursensor
+17	0.0	0	0	Heizleitung zu FT-IR: Warngrenze wurde unterschritten
+18	0.0	0	0	Heizleitung zu FT-IR: Warngrenze wurde überschritten
+19	0.0	0	1	Heizleitung zu FT-IR: Abschaltgrenze wurde unterschritten
+20	0.0	0	1	Heizleitung zu FT-IR: Abschaltgrenze wurde überschritten
+21	0.0	0	1	Heizleitung zu FID: Fühlerbruch Temperatursensor
+22	0.0	0	0	Heizleitung zu FID: Warngrenze wurde unterschritten
+23	0.0	0	0	Heizleitung zu FID: Warngrenze wurde überschritten
+24	0.0	0	1	Heizleitung zu FID: Abschaltgrenze wurde unterschritten
+25	0.0	0	1	Heizleitung zu FID: Abschaltgrenze wurde überschritten
+26	0.0	0	1	Heizleitung Extern SP1: Fühlerbruch Temperatursensor
+27	0.0	0	0	Heizleitung Extern SP1: Warngrenze wurde unterschritten
+28	0.0	0	0	Heizleitung Extern SP1: Warngrenze wurde überschritten
+29	0.0	0	1	Heizleitung Extern SP1: Abschaltgrenze wurde unterschritten
+30	0.0	0	1	Heizleitung Extern SP1: Abschaltgrenze wurde überschritten
+31	0.0	0	1	Heizleitung Extern SP2: Fühlerbruch Temperatursensor
+32	0.0	0	0	Heizleitung Extern SP2: Warngrenze wurde unterschritten
+33	0.0	0	0	Heizleitung Extern SP2: Warngrenze wurde überschritten
+34	0.0	0	1	Heizleitung Extern SP2: Abschaltgrenze wurde unterschritten
+35	0.0	0	1	Heizleitung Extern SP2: Abschaltgrenze wurde überschritten
+36	0.0	0	1	Heizung Flussregler: Fühlerbruch Temperatursensor
+37	0.0	0	0	Heizung Flussregler: Warngrenze wurde unterschritten
+38	0.0	0	0	Heizung Flussregler: Warngrenze wurde überschritten
+39	0.0	0	1	Heizung Flussregler: Abschaltgrenze wurde unterschritten
+40	0.0	0	1	Heizung Flussregler: Abschaltgrenze wurde überschritten
+43	0.0	0	0	Gaskühler: Warngrenze wurde überschritten
+45	0.0	0	1	Gaskühler: Abschaltgrenze wurde überschritten
+64	0.0	1	1	Heizung wurde wegen Übertemperatur abgeschaltet
+65	30.0	0	1	Durchfluss FT-IR: Fühlerbruch Durchflusssensor
+66	5.0	0	0	Durchfluss FT-IR: Warngrenze wurde unterschritten
+67	5.0	0	0	Durchfluss FT-IR: Warngrenze wurde überschritten
+68	45.0	0	1	Durchfluss FT-IR: Abschaltgrenze wurde unterschritten
+69	45.0	0	1	Durchfluss FT-IR: Abschaltgrenze wurde überschritten
+70	0.0	0	1	Druck Ausgang: Fühlerbruch Durchflusssensor
+71	5.0	0	0	Druck Ausgang: Warngrenze wurde unterschritten
+72	5.0	0	0	Druck Ausgang: Warngrenze wurde überschritten
+73	30.0	0	1	Druck Ausgang: Abschaltgrenze wurde unterschritten
+74	30.0	0	1	Druck Ausgang: Abschaltgrenze wurde überschritten
+75	15.0	0	1	Druck Kalter Block: Fühlerbruch Sensor
+76	30.0	0	0	Druck Kalter Block: Warngrenze wurde unterschritten
+77	30.0	0	0	Druck Kalter Block: Warngrenze wurde überschritten
+78	30.0	0	1	Druck Kalter Block: Abschaltgrenze wurde unterschritten
+79	30.0	0	1	Druck Kalter Block: Abschaltgrenze wurde überschritten
+80	20.0	0	1	Fühlerbruch Durchflusssensor PMD (-35B9)
+81	10.0	0	0	Durchfluss PMD zu niedrig!
+82	20.0	0	1	Fühlerbruch Drucksensor CalGas PMD (-35B8)
+83	10.0	0	1	Druck Cal Gas PMD zu niedrig!
+85	6.0	0	1	Störung Druckluftversorgung
+89	0.0	0	1	Fehler Spülgas Versorgung
+90	0.0	0	1	Fehler Spülgas Versorgung FT-IR (Optics)
+92	0.0	0	0	Kondensatbehälter voll
+95	2.0	0	0	Druck Cal-Gas niedrig
+114	5.0	0	1	Störung Klimaanlage
+115	5.0	0	1	Klimagerät nicht Eingeschaltet!
+120	30.0	0	1	Feuchtigkeit nach Gaskühler zu hoch!
+121	20.0	0	0	Dewar External: liquid nitrogen level is to low
+122	0.0	0	0	Schaltschranktemperatur: Fühlerbruch Temperatursensor
+123	0.0	0	0	Warnung: Schaltschranktemperatur zu hoch
+124	0.0	0	1	Schaltschrank Temperatur hat Abschaltgrenze überschritten!!
+125	0.0	0	0	Kühlung FT-IR: Fühlerbruch Temperatursensor
+126	1.0	0	1	Ausblastemperatur FTIR über 50°C
+127	20.0	0	0	Dewar: Flüssiger Stickstoff geht zu Ende
+128	0.0	0	0	Fehler: Flüssige Stickstoff Nachfüllung (System Überprüfen)
+129	5.0	0	0	Fehler LogFile! Speichern Fehlgeschlagen!
+135	15.0	0	1	Störung Messgerät (Kommunikation gestört?)
+136	0.0	0	1	Messgerät nicht in RUN
+137	0.0	1	0	Hintergrundscan wurde nicht gestartet, da Feuchte und CO2 nicht innerhalb Grenzwerte
+138	1.0	0	1	AK-Kommunikation zu FT-IR gestört!
+139	5.0	0	1	FT-IR: Temperatur von Heizleitung außerhalb Grenzwerte!
+140	5.0	0	1	FT-IR: Temperatur von Messzelle außerhalb Grenzwerte!
+142	0.0	0	0	Heizung FTIR: Temperatur von Meßzelle hat Warngrenze unterschritten
+143	0.0	0	0	Heizung FTIR: Temperatur von Meßzelle hat Warngrenze überschritten
+144	0.0	0	1	Heizung FTIR: Temperatur von Meßzelle hat Abschaltgrenze unterschritten
+145	0.0	0	1	Heizung FTIR: Temperatur von Meßzelle hat Abschaltgrenze überschritten
+146	15.0	0	0	Eingangsdruck FT-IR: Warngrenze wurde unterschritten
+147	15.0	0	0	Eingangsdruck FT-IR: Warngrenze wurde überschritten
+148	30.0	0	1	Eingangsdruck FT-IR: Abschaltgrenze wurde unterschritten
+149	30.0	0	1	Eingangsdruck FT-IR: Abschaltgrenze wurde überschritten
+150	5.0	0	1	Grenzwertfehler sBeam@2500 - Mögl.Ursache: Gaszelle verschmutzt
+151	5.0	0	1	Grenzwertfehler laserPP - Mögl.Ursache: Laser am Ende
+152	5.0	0	1	Grenzwertfehler Linearizer Check - Mögl.Ursache: Linearizer nicht richtig eingestellt
+155	5.0	0	1	Communication error Lambdameter!
+156	5.0	0	0	Lambda sonde: Lambda reading outside valid range
+157	5.0	0	0	Lambda sonde: internal resistance outside valid range
+158	5.0	0	0	Lambda sonde: O2 reading outside valid range
+159	5.0	0	0	Lambda sonde: Air-fuel ratio outside valid range
+160	5.0	0	1	PMD Störung steht an!
+161	8.0	0	0	PMD Funktionskontrolle - Messwerte ungültig!
+162	8.0	0	0	PMD Wartungsbedarf!
+163	8.0	0	0	PMD Temperatur Detektor
+164	8.0	0	0	PMD Störung Luftdruck
+165	5.0	0	1	PMD Kommunikation Fehler!
+170	5.0	0	1	FID Störung steht an!
+171	8.0	0	0	FID Funktionskontrolle - Messwerte ungültig!
+172	8.0	0	0	FID Wartungsbedarf!
+173	8.0	0	0	FID Temperatur Detektor
+174	8.0	0	1	FID Flammenfehler
+175	8.0	0	0	FID Störung Brennluft
+176	8.0	0	0	FID Störung Druck H2
+177	5.0	0	0	FID Störung Druck Eingang
+178	5.0	0	0	FID Störung Druck Ausgang
+179	5.0	0	0	FID Störung Durchfluss
+180	5.0	0	1	FID Kommunikation Fehler!
+181	0.0	1	1	Fehler CalGas-Test! Vorzeitig beendet!
+182	0.0	1	1	Fehler CalGas-Test! Span 1
+183	0.0	1	1	Fehler CalGas-Test! Span 2
+184	0.0	1	1	Fehler CalGas-Test! Span 3
+185	0.0	1	1	Fehler CalGas-Test! Messgas - Eingang
+186	0.0	0	1	Fehler Dichtheitstest!
+187	0.0	1	1	PMD: Kalibrierfehler
+188	0.0	1	1	FID CH4: Kalibrierfehler
+189	0.0	1	1	FID THC: Kalibrierfehler
+190	0.0	1	1	Auto Kalibrierung Timeout: Unbekanter Fehler
+191	15.0	0	1	Keine Kommunikation mit Steuerung
+192	0.0	0	0	ACHTUNG: Grundbedingungen für Meßbetrieb werden nicht überwacht (TESTBETRIEB)
+193	15.0	0	1	Keine Kommunikation zu PNS
+194	0.0	0	1	PNS Ausführung falsch. Bitte LP Ausführung anschließen.
+199	15.0	0	1	PNS Störung Druckluftversorgung
+200	0.0	0	1	 Fühlerbruch Temperatursensor
+201	0.0	0	0	 Warngrenze wurde unterschritten
+202	0.0	0	0	 Warngrenze wurde überschritten
+203	0.0	0	1	 Abschaltgrenze wurde unterschritten
+204	0.0	0	1	 Abschaltgrenze wurde überschritten
+205	0.0	0	1	 Fühlerbruch Temperatursensor
+206	0.0	0	0	 Warngrenze wurde unterschritten
+207	0.0	0	0	 Warngrenze wurde überschritten
+208	0.0	0	1	 Abschaltgrenze wurde unterschritten
+209	0.0	0	1	 Abschaltgrenze wurde überschritten
+210	0.0	0	1	 Fühlerbruch Temperatursensor
+211	0.0	0	0	 Warngrenze wurde unterschritten
+212	0.0	0	0	 Warngrenze wurde überschritten
+213	0.0	0	1	 Abschaltgrenze wurde unterschritten
+214	0.0	0	1	 Abschaltgrenze wurde überschritten
+215	0.0	0	1	 Fühlerbruch Temperatursensor
+216	0.0	0	0	 Warngrenze wurde unterschritten
+217	0.0	0	0	 Warngrenze wurde überschritten
+218	0.0	0	1	 Abschaltgrenze wurde unterschritten
+219	0.0	0	1	 Abschaltgrenze wurde überschritten
+220	0.0	0	1	 Fühlerbruch Temperatursensor
+221	0.0	0	0	 Warngrenze wurde unterschritten
+222	0.0	0	0	 Warngrenze wurde überschritten
+223	0.0	0	1	 Abschaltgrenze wurde unterschritten
+224	0.0	0	1	 Abschaltgrenze wurde überschritten
+225	0.0	0	1	 Fühlerbruch Temperatursensor
+226	0.0	0	0	 Warngrenze wurde unterschritten
+227	0.0	0	0	 Warngrenze wurde überschritten
+228	0.0	0	1	 Abschaltgrenze wurde unterschritten
+229	0.0	0	1	 Abschaltgrenze wurde überschritten
+230	0.0	0	1	 Fühlerbruch Temperatursensor
+231	0.0	0	0	 Warngrenze wurde unterschritten
+232	0.0	0	0	 Warngrenze wurde überschritten
+233	0.0	0	1	 Abschaltgrenze wurde unterschritten
+234	0.0	0	1	 Abschaltgrenze wurde überschritten
+235	0.0	0	1	 Fühlerbruch Temperatursensor
+236	0.0	0	0	 Warngrenze wurde unterschritten
+237	0.0	0	0	 Warngrenze wurde überschritten
+238	0.0	0	1	 Abschaltgrenze wurde unterschritten
+239	0.0	0	1	 Abschaltgrenze wurde überschritten
+240	0.0	0	0	 Warngrenze wurde unterschritten
+241	0.0	0	0	 Warngrenze wurde überschritten
+242	0.0	0	1	 Abschaltgrenze wurde unterschritten
+243	0.0	0	0	 Abschaltgrenze wurde überschritten
+244	0.0	0	0	 Fühlerbruch Temperatursensor
+245	0.0	0	0	 Warngrenze wurde unterschritten
+246	0.0	0	0	 Warngrenze wurde überschritten
+247	0.0	0	0	 Abschaltgrenze wurde unterschritten
+248	0.0	0	0	 Abschaltgrenze wurde überschritten
+249	0.0	0	0	 Fühlerbruch Temperatursensor
+250	0.0	0	0	 Warngrenze wurde unterschritten
+251	0.0	0	0	 Warngrenze wurde überschritten
+252	0.0	0	0	 Abschaltgrenze wurde unterschritten
+253	0.0	0	0	 Abschaltgrenze wurde überschritten
+254	0.0	0	0	 Fühlerbruch Temperatursensor
+255	0.0	0	0	 Warngrenze wurde unterschritten
+256	0.0	0	0	 Warngrenze wurde überschritten
+257	0.0	0	1	Amium AK Kommunikation Fehler
+258	0.0	0	1	 Abschaltgrenze wurde überschritten
+259	0.0	0	1	 Fühlerbruch Temperatursensor
+260	0.0	0	0	 Warngrenze wurde unterschritten
+261	0.0	0	0	 Warngrenze wurde überschritten
+262	0.0	0	1	 Abschaltgrenze wurde unterschritten
+263	0.0	0	1	 Amium Fehler Steuerluft
+264	0.0	0	1	 Amium Temp. Heizung 1
+265	0.0	0	0	 Warngrenze wurde unterschritten
+266	0.0	0	0	 Warngrenze wurde überschritten
+267	0.0	0	1	 Abschaltgrenze wurde unterschritten
+268	0.0	0	1	 Abschaltgrenze wurde überschritten
+269	0.0	0	1	 Amium Temp. Heizung 2
+270	0.0	0	0	 Warngrenze wurde unterschritten
+271	0.0	0	0	 Warngrenze wurde überschritten
+272	0.0	0	1	 Abschaltgrenze wurde unterschritten
+273	0.0	0	1	 Abschaltgrenze wurde überschritten
+274	0.0	0	1	 Amium Temp. Heizung 3
+275	0.0	0	0	 Warngrenze wurde unterschritten
+276	0.0	0	0	 Warngrenze wurde überschritten
+277	0.0	0	1	 Abschaltgrenze wurde unterschritten
+278	0.0	0	1	 Abschaltgrenze wurde überschritten
+279	0.0	0	1	 Amium Temp. Heizung 4
+280	0.0	0	0	 Warngrenze wurde unterschritten
+281	0.0	0	0	 Warngrenze wurde überschritten
+282	0.0	0	1	 Abschaltgrenze wurde unterschritten
+283	0.0	0	1	 Abschaltgrenze wurde überschritten
+284	0.0	0	1	 Amium Temp. Heizung 5
+285	0.0	0	0	 Warngrenze wurde unterschritten
+286	0.0	0	0	 Warngrenze wurde überschritten
+287	0.0	0	1	 Abschaltgrenze wurde unterschritten
+288	0.0	0	1	 Abschaltgrenze wurde überschritten
+289	0.0	0	1	 Amium Temp. Heizung 6
+290	0.0	0	0	 Warngrenze wurde überschritten
+291	0.0	0	0	 Abschaltgrenze wurde unterschritten
+292	0.0	0	0	 Abschaltgrenze wurde überschritten
+293	0.0	0	1	 Amium Temp. Heizung 7
+294	0.0	0	1	 Amium Temp. Heizung 7
+295	0.0	0	0	 Warngrenze wurde überschritten
+296	0.0	0	1	 Abschaltgrenze wurde unterschritten
+297	0.0	0	1	 Abschaltgrenze wurde überschritten
+298	0.0	0	1	 Abschaltgrenze wurde unterschritten
+299	0.0	0	1	 Amium Temp. Heizung 8
+300	0.0	0	0	 Warngrenze wurde unterschritten
+301	0.0	0	0	 Warngrenze wurde überschritten
+302	0.0	0	1	 Abschaltgrenze wurde unterschritten
+303	0.0	0	1	 Abschaltgrenze wurde überschritten
+304	0.0	0	1	 Amium Temp. Heizung 9
+305	0.0	0	1	 Amium Temp. Heizung 10
+306	0.0	0	1	 Amium Temp. Heizung 11: Ofen/Filter
+307	0.0	0	1	 Amium Temp. Heizung 12: HL Zuleitung
+308	0.0	0	1	 Amium Temp. Heizung 13: Wanddurchführung
+309	0.0	0	1	 Amium Temp. Heizung 14: AddOn

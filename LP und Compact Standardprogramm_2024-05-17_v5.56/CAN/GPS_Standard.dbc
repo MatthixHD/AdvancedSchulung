@@ -1,0 +1,77 @@
+VERSION ""
+
+NS_ :
+  NS_DESC_
+  CM_
+  BA_DEF_
+  BA_
+  VAL_
+  CAT_DEF_
+  CAT_
+  FILTER
+  BA_DEF_DEF_
+  EV_DATA_
+  ENVVAR_DATA_
+  SGTYPE_
+  SGTYPE_VAL_
+  BA_DEF_SGTYPE_
+  BA_SGTYPE_
+  SIG_TYPE_REF_
+  VAL_TABLE_
+  SIG_GROUP_
+  SIG_VALTYPE_
+  SIGTYPE_VALTYPE_
+  BO_TX_BU_
+  BA_DEF_REL_
+  BA_REL_
+  BA_DEF_DEF_REL_
+  BU_SG_REL_
+  BU_EV_REL_
+  BU_BO_REL_
+  SG_MUL_VAL_
+
+BS_ :
+
+BU_ :
+
+BO_ 200 GPS1: 8 Vector__XXX
+  SG_ Day : 0|8@1+ (1,0) [0|1000] "" Vector__XXX
+  SG_ GPSaltidue : 48|16@1+ (1,0) [0|1000] "" Vector__XXX
+  SG_ Hour : 24|8@1+ (1,0) [0|1000] "" Vector__XXX
+  SG_ Minute : 32|8@1+ (1,0) [0|1000] "" Vector__XXX
+  SG_ Month : 8|8@1+ (1,0) [0|1000] "" Vector__XXX
+  SG_ Second : 40|8@1+ (1,0) [0|1000] "" Vector__XXX
+  SG_ Year : 16|8@1+ (1,0) [0|1000] "" Vector__XXX
+
+BO_ 201 GPS2: 8 Vector__XXX
+  SG_ Latidue_dez_grad : 0|32@1- (1.0000000000000000818e-05,0) [0|1000] "" Vector__XXX
+  SG_ Longitude_dez_grad : 32|32@1- (1.0000000000000000818e-05,0) [0|1000] "" Vector__XXX
+
+BO_ 202 GPS3: 8 Vector__XXX
+  SG_ Direction : 16|16@1- (1,0) [0|1000] "" Vector__XXX
+  SG_ GPS_Speed : 0|16@1- (1,0) [0|1000] "" Vector__XXX
+  SG_ Nr_of_satellites : 32|16@1- (1,0) [0|1000] "" Vector__XXX
+
+BA_DEF_ "DBName" STRING;
+BA_DEF_ "BusType" STRING;
+BA_DEF_ BO_ "VFrameFormat" ENUM "StandardCAN","ExtendedCAN","reserved","J1939PG","reserved","reserved","reserved","reserved","reserved","reserved","reserved","reserved","reserved","reserved","StandardCAN_FD","ExtendedCAN_FD";
+BA_DEF_ BO_ "GenMsgSendType" ENUM "Cyclic","Event","CyclicIfActive","SpontanWithDelay","CyclicAndSpontan","CyclicAndSpontanWithDelay";
+BA_DEF_ BO_ "GenMsgCycleTime" INT 0 0;
+BA_DEF_ BO_ "GenMsgDelayTime" INT 0 0;
+BA_DEF_ SG_ "GenSigStartValue" FLOAT 0 0;
+BA_DEF_DEF_ "DBName" "GPS";
+BA_DEF_DEF_ "BusType" "CAN";
+BA_DEF_DEF_ "VFrameFormat" "StandardCAN";
+BA_DEF_DEF_ "GenMsgSendType" "Cyclic";
+BA_DEF_DEF_ "GenMsgCycleTime" 0;
+BA_DEF_DEF_ "GenMsgDelayTime" 0;
+BA_DEF_DEF_ "GenSigStartValue" 0;
+BA_ "VFrameFormat" BO_ 200 0;
+BA_ "GenMsgSendType" BO_ 200 0;
+BA_ "GenMsgCycleTime" BO_ 200 100;
+BA_ "VFrameFormat" BO_ 201 0;
+BA_ "GenMsgSendType" BO_ 201 0;
+BA_ "GenMsgCycleTime" BO_ 201 100;
+BA_ "VFrameFormat" BO_ 202 0;
+BA_ "GenMsgSendType" BO_ 202 0;
+BA_ "GenMsgCycleTime" BO_ 202 100;

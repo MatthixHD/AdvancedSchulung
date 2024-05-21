@@ -1,0 +1,145 @@
+Graph CH4
+Aufschaltung CalGas
+Konzentration
+Mwert CH4
+PMwert CH4
+FID kalibrieren mit:
+°C
+°C
+°C
+hPa
+hPa
+hPa
+hPa
+%
+%
+%
+%
+%
+%
+l/h
+%
+Ausfall
+Funktionskontrolle
+Wartungsbedarf
+HC Messbereich
+0-Punkt
+Endpunkt
+Kalidaten
+Graph1THC
+Konzentration
+Mwert 1THC
+PMwert 1THC
+0-Punkt THC
+Endpunkt THC
+MNHC
+Konzentration
+Mwert NMHC
+PMwert NMHC
+NMHC
+CH4
+THC
+Mode
+sec
+Response
+sec
+Modus (cutter)
+x
+Mwert CH4
+±
+PMwert CH4
+Konzentration
+Time
+Amplitude
+Plot 0
+Plot 1
+
+
+
+
+
+
+
+
+x
+Mwert 1THC
+±
+PMwert 1THC
+Konzentration
+Time
+Amplitude
+Plot 0
+Plot 1
+
+
+
+
+
+
+
+
+x
+Mwert NMHC
+±
+PMwert NMHC
+Konzentration
+Time
+Amplitude
+Plot 0
+Plot 1
+
+
+
+
+
+
+
+
+End-Point Cal
+0-Point Cal
+Kalibrierdaten
+Konfiguration FID
+Aufschaltung Kalibriergas
+Durchfluss:
+Stellgröße:
+Temperaturen:
+Druck:
+End-Punkt Kalibrierung
+0-Punkt Kalibrierung
+
+STATUS
+AUS
+EIN
+AUS
+EIN
+AUS
+EIN
+AUS
+EIN
+AUS
+EIN
+AUS
+EIN
+%
+l/h
+%
+%
+%
+%
+%
+%
+hPa
+hPa
+hPa
+hPa
+°C
+°C
+°C
+Grafik
+Hilfsgrößen
+Analysator
+Aufschaltpunkt
+Kalibriergas
+Kalibriergas
+Aufschaltpunkt
+Analysator

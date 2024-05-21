@@ -1,0 +1,24 @@
+[Messgerät]
+NoOfScan = 1    
+EVID THC = 11001
+IP-Adresse = "127.0.0.1"
+NoOfGases = 31    
+CurrentRecipe = "IAG-FORD DIESEL LP 5HZ"
+labEnabled = TRUE    
+labPath = "/C/Users/y.brouwer/Desktop/Toyota Vergleichmessung"
+labBaseName = "SPC_"
+
+[Diagnose]
+LaserPP Min = 0.000000    
+LaserPP Max = 0.000000    
+Linearizer Check Min = 0.000000    
+Linearizer Check Max = 0.000000    
+sBeam Min = 0.000000    
+sBeam Max = 0.000000    
+
+[EVID Codes]
+Startadresse = 11000
+Anzahl = 7
+
+[Gerätetyp]
+Hz = 5

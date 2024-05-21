@@ -1,0 +1,2888 @@
+00FFid56EA	0100id HCD3117df5
+00FFdeviceD32C	0100device 1.0.772eb
+00FFversionDFEE	0100version 3.26.12b16
+00FFget nmfc32D5	0100var nmfc 39f85
+00FFget npumpA69B	0100var npump 1c5df00FFget snpump8C26	
+00FFget ntem5BBA	0100var ntem 1933c
+00FFget nmfs20E4	0100var nmfs 1fca4
+00FFget nbal769C	0100var nbal 0b703
+00FFget mfc_min 0D8D4	0100var mfc_min 0 6.000000e-0289b0
+00FFget mfc_max 0ACD4	0100var mfc_max 0 3.000000e+007152
+
+00FFget mfc_min 1C8F5	0100var mfc_min 1 6.000000e-02f2d1
+00FFget mfc_max 1BCF5	0100var mfc_max 1 3.000000e+000a33
+
+00FFget mfc_min 2F896	0100var mfc_min 2 3.000000e-0361f2
+00FFget mfc_max 28C96	0100var mfc_max 2 1.500000e-01e18b
+
+00FFget mfc_lcl 0744E	0100var mfc_lcl 0 1.000000e+000595
+00FFget mfc_lcl 1646F	0100var mfc_lcl 1 0.000000e+007d81
+00FFget mfc_lcl 2540C	0100var mfc_lcl 2 0.000000e+00f022
+00FFget temp_lcl 09B56	0100var temp_lcl 0 1.200000e+027de5
+00FFget gas ff 0858D	0100gaslist 0 0 AIR5c05
+00FFget gas fnF41D		0100gaslist 0 18 9113
+
+00FFget gas ff 195AC	0100gaslist 1 0 AIRe464
+00FFget gas fnF41D		0100gaslist 0 18 9113	0100gaslist 1 0 O2-20%86c9	0100gaslist 1 0 C3H8%29b7d	0100gaslist 1 0 NO50004d05	0100gaslist 1 0 MG1c1b	0100gaslist 1 0 CO2-15%8f94	0100gaslist 1 18 3b42
+
+00FFget gas ff 2A5CF	0100gaslist 2 0 AIR3ce6
+00FFget gas fnF41D		0100gaslist 0 18 9113	0100gaslist 1 0 O2-20%86c9	0100gaslist 1 0 C3H8%29b7d	0100gaslist 1 0 NO50004d05	0100gaslist 1 0 MG1c1b	0100gaslist 1 0 CO2-15%8f94	0100gaslist 1 18 3b42	0100gaslist 2 18 d590
+
+00FFget gas mfc 0D10F	0100var gas mfc 0 AIRc697
+00FFget gas mfc 1C12E	0100var gas mfc 1 AIR6cc6
+00FFget gas mfc 2F14D	0100var gas mfc 2 AIR8214
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.659624e+019e2f
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 5.552500e+011027
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 3.400000e-01949a
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.672255e+012d31
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 5.552500e+011027
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 3.400000e-01949a
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.672255e+012d31
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 5.552500e+011027
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 3.400000e-01949a
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.672255e+012d31
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 5.552500e+011027
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 3.400000e-01949a
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.672255e+012d31
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 5.552500e+011027
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 3.400000e-01949a
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.659624e+019e2f
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 5.552500e+011027
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 3.400000e-01949a
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.659624e+019e2f
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 5.552500e+011027
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 3.400000e-01949a
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.659624e+019e2f
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 5.552500e+011027
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 3.400000e-01949a
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.672255e+012d31
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 5.552500e+011027
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 3.400000e-01949a
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.659624e+019e2f
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 5.552500e+011027
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 3.400000e-01949a
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.659624e+019e2f
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 5.552500e+011027
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 3.400000e-01949a
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.672255e+012d31
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 5.552500e+011027
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 3.400000e-01949a
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.672255e+012d31
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 5.552500e+011027
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 3.400000e-01949a
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.646995e+014fd4
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 5.552500e+011027
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 3.400000e-01949a
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.646995e+014fd4
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 5.552500e+011027
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 3.400000e-01949a
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.646995e+014fd4
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 5.552500e+011027
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 3.400000e-01949a
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.646995e+014fd4
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 5.552500e+011027
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 3.400000e-01949a
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.646995e+014fd4
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 5.552500e+011027
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 3.400000e-01949a
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.646995e+014fd4
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFset cmode 0 00A59
+00FFset reagent 0 45AC6
+00FFset mol 0 0.067000036BB
+00FFset density 0 1.000000011FE
+00FFset syringe 0 0.000250086CF00FFset pump_a 0 1.50000000F7B
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 3.400000e-01949a
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.646995e+014fd4
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 3.400000e-01949a
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.646995e+014fd4
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 3.400000e-01949a
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.646995e+014fd4
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 3.400000e-01949a
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.646995e+014fd4
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 3.400000e-01949a
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.646995e+014fd4
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFset cp_sp 0 0.00010004AE3
+00FFset cw_sp 0 0.000000054C8
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 1.000000e-046fe0
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.646995e+014fd4
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 1.000000e-046fe0
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.659624e+019e2f
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 1.000000e-046fe0
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.646995e+014fd4
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 1.000000e-046fe0
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.646995e+014fd4
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 1.000000e-046fe0
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 0.000000e+002942
+00FFget ad_pv 0FDE8	0100var ad_pv 0 0.000000e+007c08
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.659624e+019e2f
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 0.000000e+005f62
+00FFget Vges_pv9CB7	0100var Vges_pv 0.000000e+00b720
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 0.000000e+00c5ec
+00FFget mfc_sp 0396F	0100var mfc_sp 0 0.000000e+003471
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFset Vges_sp 3.0000000D58D
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 1.000000e-046fe0
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 1.000000e-0909be
+00FFget ad_pv 0FDE8	0100var ad_pv 0 1.000000e-095cf4
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.646995e+014fd4
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 14752
+
+00FFget Vges_spA922	0100var Vges_sp 3.000000e+005afd
+00FFget Vges_pv9CB7	0100var Vges_pv 3.066895e+0090e4
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 3.034841e+00dd07
+00FFget mfc_sp 0396F	0100var mfc_sp 0 3.000000e+0031ee
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFset dry 08479
+00FFset pctrl 03348
+00FFset run 1CA59
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 1.000000e-046fe0
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 1.000000e-0909be
+00FFget ad_pv 0FDE8	0100var ad_pv 0 1.000000e-095cf4
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.646995e+014fd4
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 1f6f0
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 05773
+
+00FFget Vges_spA922	0100var Vges_sp 3.000000e+005afd
+00FFget Vges_pv9CB7	0100var Vges_pv 3.018378e+0055a8
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 3.018378e+002764
+00FFget mfc_sp 0396F	0100var mfc_sp 0 3.000000e+0031ee
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 1.000000e-046fe0
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 1.000000e-0909be
+00FFget ad_pv 0FDE8	0100var ad_pv 0 1.000000e-095cf4
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.646995e+014fd4
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 1f6f0
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 05773
+
+00FFget Vges_spA922	0100var Vges_sp 3.000000e+005afd
+00FFget Vges_pv9CB7	0100var Vges_pv 3.004514e+0008d3
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 3.003648e+00adaf
+00FFget mfc_sp 0396F	0100var mfc_sp 0 3.000000e+0031ee
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 1.000000e-046fe0
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 1.000000e-0909be
+00FFget ad_pv 0FDE8	0100var ad_pv 0 1.000000e-095cf4
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.646995e+014fd4
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 1f6f0
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 05773
+
+00FFget Vges_spA922	0100var Vges_sp 3.000000e+005afd
+00FFget Vges_pv9CB7	0100var Vges_pv 2.997582e+00a166
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 2.997582e+00d3aa
+00FFget mfc_sp 0396F	0100var mfc_sp 0 3.000000e+0031ee
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 1.000000e-046fe0
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 1.000000e-0909be
+00FFget ad_pv 0FDE8	0100var ad_pv 0 1.000000e-095cf4
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.659624e+019e2f
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 1f6f0
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 05773
+
+00FFget Vges_spA922	0100var Vges_sp 3.000000e+005afd
+00FFget Vges_pv9CB7	0100var Vges_pv 2.996715e+00a960
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 2.995849e+00511a
+00FFget mfc_sp 0396F	0100var mfc_sp 0 3.000000e+0031ee
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 1.000000e-046fe0
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 1.000000e-0909be
+00FFget ad_pv 0FDE8	0100var ad_pv 0 1.000000e-095cf4
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.659624e+019e2f
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 1f6f0
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 05773
+
+00FFget Vges_spA922	0100var Vges_sp 3.000000e+005afd
+00FFget Vges_pv9CB7	0100var Vges_pv 2.994982e+003b78
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 2.994982e+0049b4
+00FFget mfc_sp 0396F	0100var mfc_sp 0 3.000000e+0031ee
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 1.000000e-046fe0
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 1.000000e-0909be
+00FFget ad_pv 0FDE8	0100var ad_pv 0 1.000000e-095cf4
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.646995e+014fd4
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 05773
+
+00FFget Vges_spA922	0100var Vges_sp 3.000000e+005afd
+00FFget Vges_pv9CB7	0100var Vges_pv 2.994116e+006931
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 2.994116e+001bfd
+00FFget mfc_sp 0396F	0100var mfc_sp 0 3.000000e+0031ee
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 1.000000e-046fe0
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 1.000000e-0909be
+00FFget ad_pv 0FDE8	0100var ad_pv 0 1.000000e-095cf4
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.646995e+014fd4
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 05773
+
+00FFget Vges_spA922	0100var Vges_sp 3.000000e+005afd
+00FFget Vges_pv9CB7	0100var Vges_pv 2.993249e+005053
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 2.993249e+00229f
+00FFget mfc_sp 0396F	0100var mfc_sp 0 3.000000e+0031ee
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFset dry 08479
+00FFset pctrl 03348
+00FFset run 1CA59
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 1.000000e-046fe0
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 1.000000e-0909be
+00FFget ad_pv 0FDE8	0100var ad_pv 0 1.000000e-095cf4
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.646995e+014fd4
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 1f6f0
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 05773
+
+00FFget Vges_spA922	0100var Vges_sp 3.000000e+005afd
+00FFget Vges_pv9CB7	0100var Vges_pv 2.993249e+005053
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 2.993249e+00229f
+00FFget mfc_sp 0396F	0100var mfc_sp 0 3.000000e+0031ee
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 1.000000e-046fe0
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 1.000000e-0909be
+00FFget ad_pv 0FDE8	0100var ad_pv 0 1.000000e-095cf4
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.659624e+019e2f
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 1f6f0
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 05773
+
+00FFget Vges_spA922	0100var Vges_sp 3.000000e+005afd
+00FFget Vges_pv9CB7	0100var Vges_pv 2.993249e+005053
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 2.993249e+00229f
+00FFget mfc_sp 0396F	0100var mfc_sp 0 3.000000e+0031ee
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 1.000000e-046fe0
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 1.000000e-0909be
+00FFget ad_pv 0FDE8	0100var ad_pv 0 1.000000e-095cf4
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.659624e+019e2f
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 1f6f0
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 05773
+
+00FFget Vges_spA922	0100var Vges_sp 3.000000e+005afd
+00FFget Vges_pv9CB7	0100var Vges_pv 2.993249e+005053
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 2.993249e+00229f
+00FFget mfc_sp 0396F	0100var mfc_sp 0 3.000000e+0031ee
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 1.000000e-046fe0
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 1.000000e-0909be
+00FFget ad_pv 0FDE8	0100var ad_pv 0 1.000000e-095cf4
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.659624e+019e2f
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 1f6f0
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 05773
+
+00FFget Vges_spA922	0100var Vges_sp 3.000000e+005afd
+00FFget Vges_pv9CB7	0100var Vges_pv 2.993249e+005053
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 2.993249e+00229f
+00FFget mfc_sp 0396F	0100var mfc_sp 0 3.000000e+0031ee
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 1.000000e-046fe0
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 1.000000e-0909be
+00FFget ad_pv 0FDE8	0100var ad_pv 0 1.000000e-095cf4
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.659624e+019e2f
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 1f6f0
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 05773
+
+00FFget Vges_spA922	0100var Vges_sp 3.000000e+005afd
+00FFget Vges_pv9CB7	0100var Vges_pv 2.993249e+005053
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 2.993249e+00229f
+00FFget mfc_sp 0396F	0100var mfc_sp 0 3.000000e+0031ee
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 1.000000e-046fe0
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 1.000000e-0909be
+00FFget ad_pv 0FDE8	0100var ad_pv 0 1.000000e-095cf4
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 0.000000e+008760
+00FFget temp_pv 0097F	0100var temp_pv 0 2.646995e+014fd4
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 05773
+
+00FFget Vges_spA922	0100var Vges_sp 3.000000e+005afd
+00FFget Vges_pv9CB7	0100var Vges_pv 2.993249e+005053
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 2.993249e+00229f
+00FFget mfc_sp 0396F	0100var mfc_sp 0 3.000000e+0031ee
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFset temp_sp 0 191.00000009069
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 1.000000e-046fe0
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 1.000000e-0909be
+00FFget ad_pv 0FDE8	0100var ad_pv 0 1.000000e-095cf4
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 1.910000e+026a7a
+00FFget temp_pv 0097F	0100var temp_pv 0 2.646995e+014fd4
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 05773
+
+00FFget Vges_spA922	0100var Vges_sp 3.000000e+005afd
+00FFget Vges_pv9CB7	0100var Vges_pv 2.994116e+006931
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 2.994116e+001bfd
+00FFget mfc_sp 0396F	0100var mfc_sp 0 3.000000e+0031ee
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 1.000000e-046fe0
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFget mfc_e 05A95	0100var mfc_e 0 1.000000e-099f8d
+00FFget a_sp 0F825	0100var a_sp 0 0.000000e+00d8df
+00FFget a_pv 0D159	0100var a_pv 0 1.000000e-0909be
+00FFget ad_pv 0FDE8	0100var ad_pv 0 1.000000e-095cf4
+
+00FFget mfc_e 14AB4	0100var mfc_e 1 1.000000e-09e4ec
+00FFget a_sp 1E804	0100var a_sp 1 0.000000e+00a3be
+00FFget a_pv 1C178	0100var a_pv 1 0.000000e+005223
+00FFget ad_pv 1EDC9	0100var ad_pv 1 0.000000e+000769
+
+00FFget mfc_e 27AD7	0100var mfc_e 2 1.000000e-09694f
+00FFget a_sp 2D867	0100var a_sp 2 0.000000e+002e1d
+00FFget a_pv 2F11B	0100var a_pv 2 0.000000e+00df80
+00FFget ad_pv 2DDAA	0100var ad_pv 2 0.000000e+008aca
+
+
+00FFget temp_sp 02003	0100var temp_sp 0 1.910000e+026a7a
+00FFget temp_pv 0097F	0100var temp_pv 0 2.646995e+014fd4
+00FFget rel_F6698	0100var rel_F 0.000000e+00c52e
+
+
+00FFget run2CBC	0100var run 0e6d1
+00FFget dry263E	0100var dry 0b8d0
+00FFget pctrl1AD2	0100var pctrl 05773
+
+00FFget Vges_spA922	0100var Vges_sp 3.000000e+005afd
+00FFget Vges_pv9CB7	0100var Vges_pv 2.994116e+006931
+
+00FFget mfc_pv 01013	0100var mfc_pv 0 2.994116e+001bfd
+00FFget mfc_sp 0396F	0100var mfc_sp 0 3.000000e+0031ee
+
+00FFget mfc_pv 10032	0100var mfc_pv 1 0.000000e+00be8d
+00FFget mfc_sp 1294E	0100var mfc_sp 1 0.000000e+004f10
+
+00FFget mfc_pv 23051	0100var mfc_pv 2 0.000000e+00332e
+00FFget mfc_sp 2192D	0100var mfc_sp 2 0.000000e+00c2b3
+
+
+00FFget pump_pv 0A824	0100var pump_pv 0 0.000000e+005f71
+00FFget cmode 01262	0100var cmode 0 04a8f
+00FFget reagent 04E84
+00FFget mol 069A6	0100var mol 0 6.700000e-02c83c
+00FFget density 06B48	0100var density 0 1.000000e+00d94d
+00FFget syringe 08D25	0100var syringe 0 2.500000e-04071c
+00FFget pump_a 05C87	0100var pump_a 0 1.500000e+00c0eb
+
+
+00FFget cp_sp 0A852	0100var cp_sp 0 1.000000e-046fe0
+00FFget cp_pv 0812E	0100var cp_pv 0 0.000000e+006f2c
+00FFget cpd_pv 0D01D	0100var cpd_pv 0 0.000000e+003a0a
+00FFget cw_sp 06013	0100var cw_sp 0 0.000000e+00a4ae
+00FFget cw_pv 0496F	0100var cw_pv 0 0.000000e+005533
+00FFget cwd_pv 0C959	0100var cwd_pv 0 0.000000e+00b213
+
+
+00FFget mp_sp 09ADA	0100var mp_sp 0 0.000000e+009ea2
+00FFget mp_pv 0B3A6	0100var mp_pv 0 0.000000e+006f3f
+00FFget mw_sp 0529B	0100var mw_sp 0 0.000000e+00a4bd
+00FFget mw_pv 07BE7	0100var mw_pv 0 0.000000e+005520
+00FFget mpw_sp 0B314	0100var mpw_sp 0 0.000000e+009aca
+00FFget mpw_pv 09A68	0100var mpw_pv 0 0.000000e+006b57
+
+
+00FFset run 0DA78
+00FFset Vges_sp 0806A
+00FFlocal7955

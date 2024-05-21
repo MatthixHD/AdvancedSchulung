@@ -1,0 +1,52 @@
+[Messgerät]
+NoOfScan = 1
+EVID THC = 11001
+IP-Adresse = "127.0.0.1"
+NoOfGases = 31
+CurrentRecipe = "IAG-DIESEL LP 5HZ"
+labEnabled = FALSE
+labPath = ""
+labBaseName = "SPC_"
+
+[Diagnose]
+LaserPP Min = 2,500000
+LaserPP Max = 9,000000
+Linearizer Check Min = -0,100000
+Linearizer Check Max = 0,100000
+sBeam Min = 0,300000
+sBeam Max = 3,000000
+
+[EVID Codes]
+Startadresse = 11000
+Anzahl = 7
+Startadress = 11000
+Quantity = 11
+
+[Gerätetyp]
+Hz = 5
+
+[Measuring Unit]
+NoOfGases = 31    
+CurrentRecipe = ""
+labEnabled = FALSE    
+labPath = ""
+labBaseName = ""
+NoOfScan = 2    
+
+[Diagnosis]
+LaserPP Min = 2.500000    
+LaserPP Max = 9.000000    
+Linearizer Check Min = -0.100000    
+Linearizer Check Max = 0.100000    
+sBeam Min = 0.300000    
+sBeam Max = 3.000000    
+
+[Device type]
+Hz = 10
+Comm Host = 0
+Smoothing = FALSE
+
+[Rolling Average]
+Average = 1
+AK = FALSE
+IAG = FALSE
